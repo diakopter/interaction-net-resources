@@ -265,7 +265,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
  - Mackie, Ian. "Compiling process networks to interaction nets." arXiv preprint arXiv:1609.03640 (2016).
    <br>[URL](https://arxiv.org/pdf/1609.03640), [webarchive](http://web.archive.org/web/20251016105400/https://arxiv.org/pdf/1609.03640)
  - Gimenez, Stéphane, and Georg Moser. "The complexity of interaction." Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. 2016. $${\textbf{\color{crimson}complexity}}$$
-   <br>[URL](https://dl.acm.org/doi/10.1145/2837614.2837646)
+   <br>13-page edition [URL](https://dl.acm.org/doi/10.1145/2837614.2837646)
+   <br>33-page edition [URL](https://arxiv.org/abs/1511.01838)
  - Gimenez, Stéphane, and David Obwaller. "Interaction Automata and the ia2d Interpreter." 1st International Conference on Formal Structures for Computation and Deduction (FSCD 2016). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2016. $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/ia2d.pdf), [webarchive](http://web.archive.org/save/http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/ia2d.pdf)
  - Salikhmetov, Anton. "Token-passing Optimal Reduction with Embedded Read-back." arXiv preprint arXiv:1609.03644 (2016). $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
